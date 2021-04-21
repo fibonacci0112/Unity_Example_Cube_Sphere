@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RotatingCircle : MonoBehaviour
+public class RotatingSphere : MonoBehaviour
 {
     void Update()
     {
